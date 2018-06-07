@@ -18,6 +18,6 @@ InputStreamReader(connectionsocket.getInputStream());
 
 String sentence = messagefromloadbalancer.readLine();
 
-System.out.println("Receive Connection from the Client:" + sentence);
+System.out.println("Receive Connection" + sentence);
 
 }
