@@ -2,7 +2,7 @@ import java.net.*;
 
 import javav.io.*;
 
-public class Server{
+public class client{
 
 public static void main (String [] args) throws Exception{
 
